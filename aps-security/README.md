@@ -4,7 +4,7 @@ This is my implementation of the APS security frontend assignment.
 The goal was to rebuild three screens from the provided design reference and wire them together as a small React app.
 
 Live URL: https://YOUR-VERCEL-URL  
-GitHub: https://github.com/YOUR-USERNAME/aps-security
+GitHub: https://github.com/anu7544/aps-security
 
 ---
 
